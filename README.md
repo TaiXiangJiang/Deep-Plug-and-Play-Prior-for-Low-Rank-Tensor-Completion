@@ -19,10 +19,9 @@ If you use this code, please kindly cite
 
          @article{zhao2020deep,
                   title = {Deep Plug-and-play Prior for Low-rank Tensor Completion},
-                  author = {Zhao, Xi-Le and Xu, Wen-Hao and Jiang, Tai-Xiang and Wang, Yao and Ng, Michael},
-                  journal = {Journal of Computational and Applied Mathematics},
+                  author = {Zhao, Xi-Le and Xu, Wen-Hao and Jiang, Tai-Xiang, Wang, Yao and Ng, Michael},
+                  journal = {Neurocomputing},
                   year = {2020},
-                  publisher = {Neurocomputing},
                   doi = {10.1016/j.neucom.2020.03.018}
                   }
                   
